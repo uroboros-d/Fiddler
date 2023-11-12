@@ -6,6 +6,8 @@ Protocol: http
 IP: 162.55.220.72  
 Port: 5005
 
+==================
+
 Ex_1:  
 Method: GET  
 EndPoint: /get_method  
@@ -89,10 +91,10 @@ Ex_4:
 Method: GET  
 EndPoint: /object_info_3  
 request url params:  
- name: str
- age: int
- salary: int
-
+ name: str  
+ age: int  
+ salary: int  
+ 
 response:
 ```
 {'name': name,
