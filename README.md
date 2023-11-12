@@ -116,14 +116,14 @@ Task:
  
 ==================
 
-Ex_5:
-Method: GET
-EndPoint: /object_info_4
-request url params:
- name: str
- age: int
- salary: int
-
+Ex_5:  
+Method: GET  
+EndPoint: /object_info_4  
+request url params:  
+ name: str  
+ age: int  
+ salary: int  
+ 
 response:  
 ```
 {'name': name,
