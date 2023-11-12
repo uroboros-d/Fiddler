@@ -10,9 +10,10 @@ Port: 5005
 Method: GET
 EndPoint: /get_method
 request url params: 
+ ```
  name: str
  age: int
-
+```
 ##### response: 
 ```
 [
